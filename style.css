@@ -223,9 +223,9 @@ button:focus {
 .section-title h2 {
     text-transform: uppercase;
     position: relative;
-    font-size: 32px;
-    padding-bottom: 15px;
-    margin-bottom: 15px;
+    font-size: 20px;
+    padding-bottom: 10px;
+    margin-bottom: 10px;
     line-height: 1;
 }
 
